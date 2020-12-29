@@ -51,13 +51,13 @@ Honing DSA and Problem-Solving skills through Competitive Programming👨🏻‍
 <details open>	
   <summary><b>📈Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OjusWiZard&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OjusWiZard&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OjusWiZard&theme=dracula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OjusWiZard&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details open>	
   <summary><b>🎯 Github Streaks</b></summary>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OjusWiZard&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OjusWiZard&&theme=dracula&hide_border=true" />
 </details>
 
 <div align="center">
