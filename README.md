@@ -46,25 +46,36 @@ Honing DSA and Problem-Solving skills through Competitive Programming👨🏻‍
 
 ## Numbers🔢:
 
-<details open>	
-  <summary><b>📈 Github Stats</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OjusWiZard&theme=dracula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</details>
-
-<details open>	
-  <summary><b>🌐 Most used Languages</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OjusWiZard&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details open>	
-  <summary><b>😍 How much I code</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=OjusWiZard&layout=compact&theme=dracula&langs_count=8&hide_border=true"/>
-</details>
-
-<details open>	
-  <summary><b>🎯 Github Streaks</b></summary>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OjusWiZard&&theme=dracula&hide_border=true" />
-</details>
+<table>
+  <tr>
+    <td>
+     <details open>	
+      <summary><b>📈 Github Stats</b></summary>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OjusWiZard&theme=dracula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+      </details>
+    </td>
+    <td>
+     <details open>	
+      <summary><b>🎯 Github Streaks</b></summary>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OjusWiZard&&theme=dracula&hide_border=true" />
+     </details>
+    </td>
+   </tr>
+  <tr>
+    <td>
+     <details open>	
+      <summary><b>🌐 Most used Languages</b></summary>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OjusWiZard&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+     </details>
+    </td>
+    <td>
+     <details open>	
+      <summary><b>😍 How much I code</b></summary>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=OjusWiZard&layout=compact&theme=dracula&langs_count=8&hide_border=true"/>
+     </details>
+    </td>
+   </tr>
+ </table>
 
 <div align="center">
 
