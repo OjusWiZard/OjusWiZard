@@ -56,12 +56,10 @@ Honing DSA and Problem-Solving skills through Competitive Programming👨🏻‍
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OjusWiZard&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-<!--
 <details open>	
   <summary><b>😍 How much I code</b></summary>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=OjusWiZard&layout=compact&theme=dracula&langs_count=8&hide_border=true"/>
 </details>
--->
 
 <details open>	
   <summary><b>🎯 Github Streaks</b></summary>
