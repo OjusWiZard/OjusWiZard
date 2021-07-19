@@ -3,7 +3,7 @@
 </em></p>
 
 [![Linkedin: Ojuswi](https://img.shields.io/badge/OjusWiZard-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ojuswizard/)
-[![Instagram Badge](https://img.shields.io/badge/me.not.go.out-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/me.not.go.out_part_2/)
+[![Instagram Badge](https://img.shields.io/badge/me.not.go.out_part_2-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/me.not.go.out_part_2/)
 [![Discord Badge](https://img.shields.io/badge/Tanyx-Discord-7289d9?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/524705301644050467)
 <a href="https://github.com/OjusWiZard/"> ![GitHub followers](https://img.shields.io/github/followers/OjusWiZard?label=Follow&style=social)</a>
 
