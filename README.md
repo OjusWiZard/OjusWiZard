@@ -77,5 +77,7 @@ Honing DSA and Problem-Solving skills through Competitive Programming👨🏻‍
  </table>
 
 <div align="center">
+
 ### Show some ❤️ by tipping me some BATs <img height="20" src="https://cryptologos.cc/logos/basic-attention-token-bat-logo.png">
+
 </div>
