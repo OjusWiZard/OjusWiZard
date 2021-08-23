@@ -1,6 +1,6 @@
 <!-- Heyy 👋 fellow Copy-Paster! The Star 🌟 button is right there in the top right ↗️. Thanks!!! -->
 
-<h1>Hello Visitor<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! I'm Ojuswi Rastogi <img src="https://media.tenor.com/images/4ab853a3b7b36f5d3928c726a0ac6475/tenor.gif" width="50"></h2>
+<h1>Hello Visitor!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ojuswi Rastogi <img src="https://media.tenor.com/images/4ab853a3b7b36f5d3928c726a0ac6475/tenor.gif" width="50"></h2>
 <p><em>Competitive Programmer <a href="https://www.codechef.com/users/tanyx01"><img src="https://www.codechef.com/sites/all/themes/abessive/logo.svg" height=20></a> <a href="https://codeforces.com/profile/Tanyx"><img src="http://sta.codeforces.com/s/89237/apple-icon-57x57.png" height=20></a> and Web Developer <a href="https://github.com/OjusWiZard?tab=repositories"><img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" height=25></a>
 </em></p>
 
