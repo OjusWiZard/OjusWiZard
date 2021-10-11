@@ -4,6 +4,8 @@
 <p><em>Competitive Programmer <a href="https://www.codechef.com/users/tanyx01"><img src="https://www.codechef.com/sites/all/themes/abessive/logo.svg" height=20></a> <a href="https://codeforces.com/profile/Tanyx"><img src="http://sta.codeforces.com/s/89237/apple-icon-57x57.png" height=20></a> and Web Developer <a href="https://github.com/OjusWiZard?tab=repositories"><img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" height=25></a>
 </em></p>
 
+
+[![Twitter: Ojuswi](https://img.shields.io/badge/OjuswiRastogi-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/ojuswirastogi/)
 [![Linkedin: Ojuswi](https://img.shields.io/badge/OjusWiZard-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ojuswizard/)
 [![Instagram Badge](https://img.shields.io/badge/me.not.go.out_part_2-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/me.not.go.out_part_2/)
 [![Discord Badge](https://img.shields.io/badge/Tanyx-Discord-7289d9?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/524705301644050467)
