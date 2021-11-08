@@ -6,13 +6,13 @@
     I'm Ojuswi Rastogi
     <img src="https://media.tenor.com/images/4ab853a3b7b36f5d3928c726a0ac6475/tenor.gif" width="50">
 </h2>
-<p><em>
-    Web3.0 and Web2.0 Developer
-    <a style="position: relative; top: 0.5em;" href="https://github.com/OjusWiZard?tab=repositories">
+<p>
+    <em style="position: relative; bottom: 7px;"> Web3.0 and Web2.0 Developer </em>
+    <a href="https://github.com/OjusWiZard?tab=repositories">
         <img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" height=25>
     </a>
-    and Competitive Programmer
-    <a style="position: relative; top: 0.35em;" href="https://www.codechef.com/users/tanyx01">
+    <em style="position: relative; bottom: 7px;"> and Competitive Programmer</em>
+    <a href="https://www.codechef.com/users/tanyx01">
         <img src="https://www.codechef.com/sites/all/themes/abessive/logo.svg" height=20>
     </a>
 </em></p>
@@ -50,26 +50,62 @@ Honing DSA and Problem-Solving skills through Competitive Programming👨🏻‍
 ### Languages and Tools:
 
 <p>
-    <img height="50" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C">
-    <img height="50" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++">
-    <img height="50" src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python">
-    <img height="50" src="https://smartpy.io/static/img/logo-only.svg" alt="SmartPy">
-    <img height="50" src="https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png" alt="Tezos Blockchain">
-    <img height="50" src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML">
-    <img height="50" src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS">
-    <img height="50" src="https://img.icons8.com/ios/50/ffffff/django.png" alt="Django">
-    <img height="50" src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="javaScript">
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img height="50" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C">
+    </a>
+    <a href="https://www.cplusplus.com/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++">
+    </a>
+    <a href="https://www.python.org/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python">
+    </a>
+    <a href="https://smartpy.io/">
+        <img height="50" src="https://smartpy.io/static/img/logo-only.svg" alt="SmartPy">
+    </a>
+    <a href="https://tezos.com/">
+        <img height="50" src="https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png" alt="Tezos Blockchain">
+    </a>
+    <a href="https://html.com/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/CSS">
+        <img height="50" src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS">
+    </a>
+    <a href="https://www.djangoproject.com/">
+        <img height="50" src="https://img.icons8.com/ios/50/ffffff/django.png" alt="Django">
+    </a>
+    <a href="https://www.javascript.com/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="javaScript">
 </p>
 <p>
-    <img height="50" src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap">
-    <img height="50" src="https://img.icons8.com/ios/50/ffffff/jquery.png" alt="jQuery">
-    <img height="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git">
-    <img height="50" src="https://img.icons8.com/color/50/000000/postgreesql.png" alt="PostgreSQL">
-    <img height="50" src="https://img.icons8.com/color/50/000000/docker.png" alt="Docker">
-    <img height="50" src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" alt="RabbitMQ">
-    <img height="50" src="https://img.icons8.com/color/50/000000/ubuntu--v1.png" alt="Linux">
-    <img height="50" src="https://img.icons8.com/color/50/000000/console.png" alt="CLI">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS-Code">
+    </a>
+    <a href="https://getbootstrap.com/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap">
+    </a>
+    <a href="https://jquery.com/">
+        <img height="50" src="https://img.icons8.com/ios/50/ffffff/jquery.png" alt="jQuery">
+    </a>
+    <a href="https://git-scm.com/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git">
+    </a>
+    <a href="https://www.postgresql.org/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/postgreesql.png" alt="PostgreSQL">
+    </a>
+    <a href="https://www.docker.com/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/docker.png" alt="Docker">
+    </a>
+    <a href="https://www.rabbitmq.com/">
+        <img height="50" src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" alt="RabbitMQ">
+    </a>
+    <a href="https://www.linux.org/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/ubuntu--v1.png" alt="Linux">
+    </a>
+    <a href="https://www.gnu.org/software/bash/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/console.png" alt="CLI">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS-Code">
+    </a>
 </p>
 
 ## Numbers🔢:
