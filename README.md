@@ -76,6 +76,10 @@ Honing DSA and Problem-Solving skills through Competitive Programming👨🏻‍
     </a>
     <a href="https://www.javascript.com/">
         <img height="50" src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="javaScript">
+    </a>
+    <a href="https://soliditylang.org/">
+        <img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_solidity_icon_130436.png" alt="Solidity">
+    </a>
 </p>
 <p>
     </a>
