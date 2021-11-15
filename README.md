@@ -86,6 +86,9 @@ Honing DSA and Problem-Solving skills through Competitive Programming👨🏻‍
     <a href="https://getbootstrap.com/">
         <img height="50" src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap">
     </a>
+    <a href="https://jekyllrb.com/">
+        <img height="50" src="https://github.com/jekyll/brand/raw/master/jekyll-logo-light-transparent.png" alt="Jekyll">
+    </a>
     <a href="https://jquery.com/">
         <img height="50" src="https://img.icons8.com/ios/50/ffffff/jquery.png" alt="jQuery">
     </a>
