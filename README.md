@@ -34,8 +34,8 @@ Honing DSA and Problem-Solving skills through Competitive Programming👨🏻‍
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Tezos Blockchain and SmartPy.
-- 🚀 &nbsp; I’m currently learning how different DApps works.
+- 🛠 &nbsp; I’m currently working on Tezos Blockchain and SmartPy.
+- 🚀 &nbsp; I’m currently BUIDLing different dApps.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/OjusWiZard?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/ojuswizard/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Don't <code>import antigravity</code> in python.
@@ -63,7 +63,7 @@ Honing DSA and Problem-Solving skills through Competitive Programming👨🏻‍
         <img height="50" src="https://smartpy.io/static/img/logo-only.svg" alt="SmartPy">
     </a>
     <a href="https://tezos.com/">
-        <img height="50" src="https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png" alt="Tezos Blockchain">
+        <img height="50" src="https://cryptologos.cc/logos/tezos-xtz-logo.svg" alt="Tezos Blockchain">
     </a>
     <a href="https://html.com/">
         <img height="50" src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML">
