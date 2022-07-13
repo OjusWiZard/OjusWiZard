@@ -161,3 +161,7 @@ Honing DSA and Problem-Solving skills through Competitive Programming👨🏻‍
 ### Show some ❤️ by tipping me some BATs <img height="20" style="cursor: pointer" src="https://cryptologos.cc/logos/basic-attention-token-bat-logo.png">
 
 </div>
+
+<p align="center">
+  <img src="https://github.com/OjusWiZard/OjusWiZard/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
