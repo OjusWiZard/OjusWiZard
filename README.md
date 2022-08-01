@@ -34,7 +34,7 @@ Honing DSA and Problem-Solving skills through Competitive Programming👨🏻‍
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on Tezos Blockchain, Smart Contracts, and Wallets.
+- 🛠 &nbsp; I’m currently working on Tezos Smart Contracts and Wallets.
 - 🚀 &nbsp; I’m currently BUIDLing different dApps.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/OjusWiZard?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/ojuswizard/)! I am happy to help.
