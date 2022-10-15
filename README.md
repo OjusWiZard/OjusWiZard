@@ -27,8 +27,7 @@
 
 ## Nice To See You! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=OjusWiZard.OjusWiZard&style=flat-square&color=0088cc)+1
 
-I'm a Completely Passionate, Self-Learning and Perseverant B.Tech. Computer Science student🎓. Willingness to solve real-world🌍 problems and help people using Technology never lets me sleep🤔.
-Honing DSA and Problem-Solving skills through Competitive Programming👨🏻‍💻. Also, Designed and Developed different Decentralised apps, Android apps, Frontend and Backends.
+I'm a Completely Passionate, Self-Learning and Perseverant B.Tech. Computer Science student🎓. Designed and Developed Large and Decentralised apps, Frontend and Backends.
 
 <img align="right" alt="GIF of Me" width="375" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" />
 
