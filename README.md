@@ -1,21 +1,14 @@
 <!-- Heyy 👋 fellow Copy-Paster! The Star 🌟 button is right there in the top right ↗️. Thanks!!! -->
 
 <h1>
-    Hello Visitor!
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+    Heyy!
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <br>
     I'm Ojuswi Rastogi
     <img src="https://media.tenor.com/images/4ab853a3b7b36f5d3928c726a0ac6475/tenor.gif" width="50">
 </h2>
 <p>
-    <em style="position: relative; bottom: 7px;"> Web3.0 and Web2.0 Developer </em>
-    <a href="https://github.com/OjusWiZard?tab=repositories">
-        <img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" height=25>
-    </a>
-    <em style="position: relative; bottom: 7px;"> and Competitive Programmer</em>
-    <a href="https://www.codechef.com/users/tanyx01">
-        <img src="https://www.codechef.com/sites/all/themes/abessive/logo.svg" height=20>
-    </a>
-</em></p>
+    <em style="position: relative; bottom: 7px;"> Software Developer with Karizma in Web3 </em>
+</p>
 
 
 [![Twitter: Ojuswi](https://img.shields.io/badge/OjuswiRastogi-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/ojuswirastogi/)
@@ -25,16 +18,21 @@
 <a href="https://github.com/OjusWiZard/"> ![GitHub followers](https://img.shields.io/github/followers/OjusWiZard?label=Follow&style=social)</a>
 
 
-## Nice To See You! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=OjusWiZard.OjusWiZard&style=flat-square&color=0088cc)+1
-
-I'm a Completely Passionate, Self-Learning and Perseverant B.Tech. Computer Science student🎓. Designed and Developed Large and Decentralised apps, Frontend and Backends.
+## Nice To See You!&nbsp;![](https://visitor-badge.glitch.me/badge?page_id=OjusWiZard.OjusWiZard&style=flat-square&color=0088cc) +1
 
 <img align="right" alt="GIF of Me" width="375" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" />
 
+The Developer Wizard with a taste in Computers 👨‍💻
+- 👨‍💻 &nbsp; Programming for 6+ years.
+- 🛠 &nbsp; Developing Fullstack web (d)apps for 3+ years.
+- 🗄️ &nbsp; Specialised in Backend stuff.
+- 🐍 &nbsp; Mostly spends time with TypeScript, Python, and C++.
+
+Learn more about my skill potions 👇
+
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on Tezos Smart Contracts and Wallets.
-- 🚀 &nbsp; I’m currently BUIDLing different dApps.
+- 🛠 &nbsp; I’m currently working on Smart Contracts and Wallet integrations.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/OjusWiZard?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/ojuswizard/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Don't <code>import antigravity</code> in python.
@@ -43,20 +41,29 @@ I'm a Completely Passionate, Self-Learning and Perseverant B.Tech. Computer Scie
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuffs.
-- 🧠 &nbsp; Brainstorming on Algorithmic Puzzles.
+- 🧠 &nbsp; Brainstorming on Complex engineering problems.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Languages and Tools:
 
 <p>
+    <a href="https://www.typescriptlang.org/">
+        <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript">
+    </a>
+    <a href="https://www.python.org/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python">
+    </a>
+    <a href="https://docs.soliditylang.org/en/v0.8.17/">
+        <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity">
+    </a>
+    <a href="https://ethereum.org/">
+        <img height="50" src="https://img.icons8.com/color/48/null/ethereum.png" alt="Ethereum">
+    </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
         <img height="50" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C">
     </a>
     <a href="https://www.cplusplus.com/">
         <img height="50" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++">
-    </a>
-    <a href="https://www.python.org/">
-        <img height="50" src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python">
     </a>
     <a href="https://smartpy.io/">
         <img height="50" src="https://smartpy.io/static/img/logo-only.svg" alt="SmartPy">
@@ -75,9 +82,6 @@ I'm a Completely Passionate, Self-Learning and Perseverant B.Tech. Computer Scie
     </a>
     <a href="https://www.javascript.com/">
         <img height="50" src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="javaScript">
-    </a>
-    <a href="https://soliditylang.org/">
-        <img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_solidity_icon_130436.png" alt="Solidity">
     </a>
 </p>
 <p>
@@ -99,6 +103,9 @@ I'm a Completely Passionate, Self-Learning and Perseverant B.Tech. Computer Scie
     </a>
     <a href="https://www.docker.com/">
         <img height="50" src="https://img.icons8.com/color/50/000000/docker.png" alt="Docker">
+    </a>
+    <a href="https://redis.io/">
+        <img height="50" src="https://img.icons8.com/color/48/null/redis.png" alt="Redis">
     </a>
     <a href="https://www.rabbitmq.com/">
         <img height="50" src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" alt="RabbitMQ">
