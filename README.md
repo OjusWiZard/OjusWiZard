@@ -148,7 +148,8 @@ Learn more about my skill potions 👇
     <td>
      <details open>	
       <summary><b>😍 How much I code</b></summary>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=OjusWiZard&layout=compact&theme=dracula&langs_count=8&hide_border=true"/>
+      <a href="https://wakatime.com/@2aa2ce95-8b1c-4481-b4d9-b9edc9cb2630"><img src="https://wakatime.com/badge/user/2aa2ce95-8b1c-4481-b4d9-b9edc9cb2630.svg?style=flat-square"></a>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=OjusWiZard&layout=compact&theme=dracula&langs_count=8&hide_border=true" />
      </details>
     </td>
    </tr>
