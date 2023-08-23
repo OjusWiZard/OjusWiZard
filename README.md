@@ -32,7 +32,7 @@ Learn more about my skill potions 👇
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working on Conversational Retrieval QA chains and HFT bots.
+- 🛠 &nbsp; I’m currently working on Conversational Retrieval QA chains and HFT Arbitrage bots.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/OjusWiZard?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/ojuswizard/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Don't <code>import antigravity</code> in python.
