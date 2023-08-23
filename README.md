@@ -24,15 +24,15 @@
 
 The Developer Wizard with a taste in Computers 👨‍💻
 - 👨‍💻 &nbsp; Programming for 6+ years.
-- 🛠 &nbsp; Developing Fullstack web (d)apps for 3+ years.
+- 🛠 &nbsp; Developing Fullstack web (d)apps for 4+ years.
 - 🗄️ &nbsp; Specialised in Backend stuff.
 - 🐍 &nbsp; Mostly spends time with TypeScript, Python, and C++.
 
 Learn more about my skill potions 👇
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working on Smart Contracts and Wallet integrations.
+- 🛠 &nbsp; I’m currently working on Conversational Retrieval QA chains and HFT bots.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/OjusWiZard?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/ojuswizard/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Don't <code>import antigravity</code> in python.
@@ -40,7 +40,7 @@ Learn more about my skill potions 👇
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuffs.
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 🧠 &nbsp; Brainstorming on Complex engineering problems.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
