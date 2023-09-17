@@ -7,7 +7,7 @@
     <img src="https://media.tenor.com/images/4ab853a3b7b36f5d3928c726a0ac6475/tenor.gif" width="50">
 </h2>
 <p>
-    <em style="position: relative; bottom: 7px;"> Software Developer with Charisma in Web3 </em>
+    <em style="position: relative; bottom: 7px;"> Your Friendly Neighbourhood Software Engineer </em>
 </p>
 
 
@@ -18,21 +18,19 @@
 <a href="https://github.com/OjusWiZard/"> ![GitHub followers](https://img.shields.io/github/followers/OjusWiZard?label=Follow&style=social)</a>
 
 
-## Nice To See You!&nbsp;![](https://visitor-badge.glitch.me/badge?page_id=OjusWiZard.OjusWiZard&style=flat-square&color=0088cc) +1
+<!-- ## Nice To See You!&nbsp;![](https://visitor-badge.glitch.me/badge?page_id=OjusWiZard.OjusWiZard&style=flat-square&color=0088cc) +1 -->
 
 <img align="right" alt="GIF of Me" width="375" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" />
 
-The Developer Wizard with a taste in Computers 👨‍💻
+I code, learn, and iterate 👨‍💻
 - 👨‍💻 &nbsp; Programming for 6+ years.
-- 🛠 &nbsp; Developing Fullstack web (d)apps for 4+ years.
+- 🛠 &nbsp; Developing Fullstack web (d)apps for 3+ years.
 - 🗄️ &nbsp; Specialised in Backend stuff.
 - 🐍 &nbsp; Mostly spends time with TypeScript, Python, and C++.
 
-Learn more about my skill potions 👇
-
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working on Conversational Retrieval QA chains and HFT Arbitrage bots.
+- 🛠 &nbsp; I’m currently working on learning some more backend stuff.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/OjusWiZard?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/ojuswizard/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Don't <code>import antigravity</code> in python.
