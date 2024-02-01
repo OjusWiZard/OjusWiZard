@@ -168,5 +168,5 @@ I code, learn, and iterate 👨‍💻
 </div>
 
 <p align="center">
-  <img src="https://github.com/OjusWiZard/OjusWiZard/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/OjusWiZard/OjusWiZard/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
