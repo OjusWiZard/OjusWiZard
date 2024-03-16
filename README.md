@@ -155,7 +155,7 @@ I code, learn, and iterate 👨‍💻
     <td colspan="2">
       <details open>
         <summary><b>⛰️ Contributions Himalayas ahead!</b></summary>
-          <img src="https://activity-graph.herokuapp.com/graph?username=ojuswizard&bg_color=282a36&color=ffffff&line=e36594&point=c885ff&area=true&hide_border=true&custom_title=Commits+go+up+%E2%98%9D+Commits+go+down+%F0%9F%91%87" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=OjusWiZard&bg_color=282a36&color=ffffff&line=e36594&point=c885ff&area=true&hide_border=true&custom_title=Commits+go+up+%E2%98%9D+Commits+go+down+%F0%9F%91%87" />
      </details>
     </td>
    </tr>
