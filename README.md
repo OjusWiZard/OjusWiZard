@@ -28,7 +28,7 @@ I code, learn, and iterate 👨‍💻
 - 🗄️ &nbsp; Specialised in Backend stuff.
 - 🐍 &nbsp; Mostly spends time with TypeScript, Python, and C++.
 
-### Talking about Personal Stuff:
+### Talking about Personal Stuff
 
 - 🛠 &nbsp; I’m currently working on learning some more backend stuff.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/OjusWiZard?tab=repositories).
@@ -36,13 +36,13 @@ I code, learn, and iterate 👨‍💻
 - 👾 &nbsp; Fun fact: Don't <code>import antigravity</code> in python.
 - 📫 &nbsp; How to reach me: ojuswimail@gmail.com.
 
-### My Absolute Favorites:
+### My Absolute Favorites
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 🧠 &nbsp; Brainstorming on Complex engineering problems.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
-### Languages and Tools:
+### Languages and Tools
 
 <p>
     <a href="https://www.typescriptlang.org/">
@@ -119,7 +119,7 @@ I code, learn, and iterate 👨‍💻
     </a>
 </p>
 
-## Numbers🔢:
+## Numbers 🔢
 
 <table>
   <tr>
@@ -132,7 +132,7 @@ I code, learn, and iterate 👨‍💻
     <td>
      <details open>	
       <summary><b>🎯 Github Streaks</b></summary>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OjusWiZard&&theme=dracula&hide_border=true" />
+      <img height="180em" src="https://streak-stats.demolab.com/?user=OjusWiZard&&theme=dracula&hide_border=true" />
      </details>
     </td>
    </tr>
