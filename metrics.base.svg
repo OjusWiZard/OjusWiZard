@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="411" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="363" class="">
     <defs>
         <style/>
     </defs>
@@ -9,6 +9,8 @@ h1, h2 { color: #e36594 !important; }
 .field svg { fill: #bd93f9 !important; }
 a { color: #8be9fd !important; }
 .calendar .day { outline-color: rgba(255, 255, 255, 0.06) !important; }
+.contribution img { display: none !important; }
+.contribution .name { margin-left: 4px; }
 :root {
  --color-calendar-graph-day-bg: #44475a;
  --color-calendar-graph-day-border: rgba(255, 255, 255, 0.06);
