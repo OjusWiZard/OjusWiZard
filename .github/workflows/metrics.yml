@@ -22,7 +22,9 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      # overview card: profile header plus repository totals
+      # Most of my work lands in org repos (valory-xyz, rotki, hummingbot) rather than
+      # repos I own, so anything counting "my repositories" reads as ~1 and is useless.
+      # Everything below is deliberately contribution-based instead.
       - name: generate metrics.base.svg
         uses: lowlighter/metrics@latest
         with:
@@ -30,10 +32,16 @@ jobs:
           user: ${{ github.repository_owner }}
           filename: metrics.base.svg
           template: classic
-          base: header, repositories
+          base: header
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_repositories: yes
+          plugin_notable_indepth: yes
           config_timezone: Asia/Kolkata
 
-      # language breakdown, replaces the dead github-readme-stats top-langs card
+      # "recently-used" reads languages off recent commit activity across every repo
+      # I push to, including org repos. "most-used" only looks at owned repos, which is
+      # why it rendered 0 languages.
       - name: generate metrics.langs.svg
         uses: lowlighter/metrics@latest
         with:
@@ -43,7 +51,8 @@ jobs:
           template: classic
           base: ""
           plugin_languages: yes
+          plugin_languages_sections: recently-used
           plugin_languages_limit: 8
           plugin_languages_details: percentage
-          plugin_languages_sections: most-used
+          plugin_languages_days: 365
           config_timezone: Asia/Kolkata
