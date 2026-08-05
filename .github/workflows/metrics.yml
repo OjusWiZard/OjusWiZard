@@ -22,38 +22,65 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      # Header-only card. Deliberately NOT the "repositories" section: nearly all my work
-      # lands in org repos (valory-xyz, rotki, hummingbot) rather than repos I own, so
-      # owned-repo counters render "1 Repository / 0 Stargazers" and understate everything.
-      # The header's "Contributed to N repositories" is the number that actually reflects the work.
-      #
-      # To unlock the language breakdown and notable-org-contribution cards, create a PAT
-      # with `public_repo` + `read:org` scope, save it as a repo secret named METRICS_TOKEN,
-      # and swap the token below plus uncomment the second step. The built-in GITHUB_TOKEN
-      # is scoped to this repo only, so cross-repo activity reads back empty.
+      # Deliberately NOT the "repositories" base section: nearly all my work lands in org
+      # repos (valory-xyz, rotki, hummingbot) rather than repos I own, so owned-repo counters
+      # render "1 Repository / 0 Stargazers" and understate everything. The header's
+      # "Contributed to N repositories" is the number that actually reflects the work.
       - name: generate metrics.base.svg
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: ${{ github.repository_owner }}
           filename: metrics.base.svg
           template: classic
           base: header
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_repositories: yes
+          config_theme: dark
           config_timezone: Asia/Kolkata
+          extras_css: |
+            svg { background: #282a36 !important; color: #f8f8f2 !important; }
+            h1, h2 { color: #e36594 !important; }
+            .field { color: #f8f8f2 !important; }
+            .field svg { fill: #bd93f9 !important; }
+            a { color: #8be9fd !important; }
+            .calendar .day { outline-color: rgba(255, 255, 255, 0.06) !important; }
+            :root {
+              --color-calendar-graph-day-bg: #44475a;
+              --color-calendar-graph-day-border: rgba(255, 255, 255, 0.06);
+              --color-calendar-graph-day-L1-bg: #6272a4;
+              --color-calendar-graph-day-L2-bg: #bd93f9;
+              --color-calendar-graph-day-L3-bg: #ff79c6;
+              --color-calendar-graph-day-L4-bg: #e36594;
+              --color-calendar-graph-day-L1-border: rgba(255, 255, 255, 0.06);
+              --color-calendar-graph-day-L2-border: rgba(255, 255, 255, 0.06);
+              --color-calendar-graph-day-L3-border: rgba(255, 255, 255, 0.06);
+              --color-calendar-graph-day-L4-border: rgba(255, 255, 255, 0.06);
+            }
 
-      # - name: generate metrics.langs.svg
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     token: ${{ secrets.METRICS_TOKEN }}
-      #     user: ${{ github.repository_owner }}
-      #     filename: metrics.langs.svg
-      #     template: classic
-      #     base: ""
-      #     plugin_languages: yes
-      #     plugin_languages_sections: recently-used
-      #     plugin_languages_limit: 8
-      #     plugin_languages_details: percentage
-      #     plugin_languages_days: 365
-      #     plugin_notable: yes
-      #     plugin_notable_from: organization
-      #     config_timezone: Asia/Kolkata
+      # "recently-used" reads languages off recent commit activity across every repo I push
+      # to, including org repos. "most-used" only looks at owned repos, which is why it
+      # rendered 0 languages. Needs METRICS_TOKEN; the built-in GITHUB_TOKEN cannot see
+      # cross-repo activity.
+      - name: generate metrics.langs.svg
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: metrics.langs.svg
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_sections: recently-used
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_days: 365
+          config_theme: dark
+          config_timezone: Asia/Kolkata
+          extras_css: |
+            svg { background: #282a36 !important; color: #f8f8f2 !important; }
+            h1, h2 { color: #e36594 !important; }
+            .field { color: #f8f8f2 !important; }
+            .field svg { fill: #bd93f9 !important; }
+            a { color: #8be9fd !important; }
