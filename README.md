@@ -50,9 +50,6 @@ I build AI agents that people trust with their own money 👨‍💻
 <a href="https://www.typescriptlang.org/">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript">
 </a>
-<a href="https://docs.soliditylang.org/en/v0.8.17/">
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity">
-</a>
 <a href="https://ethereum.org/">
 <img height="50" src="https://img.icons8.com/color/48/null/ethereum.png" alt="Ethereum">
 </a>
@@ -108,7 +105,9 @@ I build AI agents that people trust with their own money 👨‍💻
 </td>
 <td>
 <details open>
-<summary><b>😍 How much I code</b></summary>
+<summary><b>🧭 Where the work actually goes</b></summary>
+<img src="https://raw.githubusercontent.com/OjusWiZard/OjusWiZard/main/metrics.base.svg" />
+<br>
 <a href="https://wakatime.com/@2aa2ce95-8b1c-4481-b4d9-b9edc9cb2630"><img src="https://wakatime.com/badge/user/2aa2ce95-8b1c-4481-b4d9-b9edc9cb2630.svg?style=flat-square"></a>
 </details>
 </td>
