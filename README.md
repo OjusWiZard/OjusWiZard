@@ -23,14 +23,14 @@
 <img align="right" alt="GIF of Me" width="375" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" />
 
 I code, learn, and iterate 👨‍💻
-- 👨‍💻 &nbsp; Programming for 6+ years.
-- 🛠 &nbsp; Developing Fullstack web (d)apps for 3+ years.
-- 🗄️ &nbsp; Specialised in Backend stuff.
-- 🐍 &nbsp; Mostly spends time with TypeScript, Python, and C++.
+- 👨‍💻 &nbsp;Programming for 9+ years.
+- 🛠 &nbsp; Building autonomous AI agents and the wallet infrastructure they run on.
+- 🗄️ &nbsp;Specialised in Backend, wallets, and the security around both.
+- 🐍 &nbsp;Mostly spends time with Python, TypeScript, and Solidity.
 
 ### Talking about Personal Stuff
 
-- 🛠 &nbsp; I’m currently working on learning some more backend stuff.
+- 🛠 &nbsp; I'm currently working on [Pearl](https://www.pearl.you/) and [Connect](https://olas.network/blog/pearl-connect) at Valory, giving AI agents wallets you can trust them with.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/OjusWiZard?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/ojuswizard/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Don't <code>import antigravity</code> in python.
